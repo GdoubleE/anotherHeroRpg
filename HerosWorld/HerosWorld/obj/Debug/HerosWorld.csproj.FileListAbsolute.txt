@@ -1,0 +1,10 @@
+C:\Users\Owner\documents\visual studio 2017\Projects\HerosWorld\HerosWorld\bin\Debug\HerosWorld.exe.config
+C:\Users\Owner\documents\visual studio 2017\Projects\HerosWorld\HerosWorld\bin\Debug\HerosWorld.exe
+C:\Users\Owner\documents\visual studio 2017\Projects\HerosWorld\HerosWorld\bin\Debug\HerosWorld.pdb
+C:\Users\Owner\documents\visual studio 2017\Projects\HerosWorld\HerosWorld\obj\Debug\HerosWorld.csprojResolveAssemblyReference.cache
+C:\Users\Owner\documents\visual studio 2017\Projects\HerosWorld\HerosWorld\obj\Debug\HerosWorld.EntryScreen.resources
+C:\Users\Owner\documents\visual studio 2017\Projects\HerosWorld\HerosWorld\obj\Debug\HerosWorld.Form_CharacterCreator.resources
+C:\Users\Owner\documents\visual studio 2017\Projects\HerosWorld\HerosWorld\obj\Debug\HerosWorld.Properties.Resources.resources
+C:\Users\Owner\documents\visual studio 2017\Projects\HerosWorld\HerosWorld\obj\Debug\HerosWorld.csproj.GenerateResource.Cache
+C:\Users\Owner\documents\visual studio 2017\Projects\HerosWorld\HerosWorld\obj\Debug\HerosWorld.exe
+C:\Users\Owner\documents\visual studio 2017\Projects\HerosWorld\HerosWorld\obj\Debug\HerosWorld.pdb
